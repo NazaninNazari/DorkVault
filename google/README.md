@@ -4,12 +4,12 @@ A curated collection of Google search queries for security research, OSINT, reco
 ---
 
 ## Contents
-- [Operators](Operators.md)
-- [Files](Files.md)
-- [Exposed Resources](Exposed.md)
-- [Login Panels](Login_Panels.md)
-- [Technology](Technology.md)
-- [OSINT](OSINT.md)
+- [Operators](operators.md)
+- [Files](files.md)
+- [Exposed Resources](exposed.md)
+- [Login Panels](login_panels.md)
+- [Technology](technology.md)
+- [OSINT](osint.md)
 
 ---
 
@@ -18,7 +18,7 @@ A curated collection of Google search queries for security research, OSINT, reco
 Core Google search operators used to build advanced search queries.
 
 See:
-[Operators.md](Operators.md)
+[Operators.md](operators.md)
 
 ---
 
@@ -26,7 +26,7 @@ See:
 Search queries for discovering publicly indexed documents, source files, archives, logs and other file types.
 
 See:
-[Files.md](Files.md)
+[Files.md](files.md)
 
 ---
 
@@ -34,7 +34,7 @@ See:
 Search queries for identifying publicly indexed directories, backups, logs, development resources and other potentially exposed web content.
 
 See:
-[Exposed.md](Exposed.md)
+[Exposed.md](exposed.md)
 
 ---
 
@@ -42,7 +42,7 @@ See:
 Search queries for discovering publicly indexed login pages, administrative interfaces, dashboards and authentication portals.
 
 See:
-[Login_Panels.md](Login_Panels.md)
+[Login_Panels.md](login_panels.md)
 
 ---
 
@@ -50,7 +50,7 @@ See:
 Search queries for identifying publicly indexed technologies, frameworks, CMS platforms, APIs and developer resources.
 
 See:
-[Technology.md](Technology.md)
+[Technology.md](technology.md)
 
 ---
 
@@ -58,7 +58,7 @@ See:
 Search queries for domain research, organizations, public documentation, reports, repositories and other publicly available information.
 
 See:
-[OSINT.md](OSINT.md)
+[OSINT.md](osint.md)
 
 ---
 
