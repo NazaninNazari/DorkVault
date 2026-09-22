@@ -11,6 +11,7 @@ A curated collection of Google search queries for security research, OSINT, reco
 - [Technology](technology.md)
 - [OSINT](osint.md)
 - [Endpoint & URL Parameters](endpoint_parameters.md)
+- [Path Based](path_based_dorks.md)
 
 ---
 
@@ -70,6 +71,12 @@ see:
 [Endpoint_Parameters.md](endpoint_parameters.md)
 
 ---
+
+### Path Based
+if you find a domain and a path that looks something like “/assets/scripts/” or “/private/documents/” you can use any of these combinations.
+
+see:
+[Path_Based.md](path_based_dorks.md)
 
 ## Usage
 Replace placeholders such as:
