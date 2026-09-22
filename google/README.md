@@ -10,6 +10,7 @@ A curated collection of Google search queries for security research, OSINT, reco
 - [Login Panels](login_panels.md)
 - [Technology](technology.md)
 - [OSINT](osint.md)
+- [Endpoint & URL Parameters](endpoint_parameters.md)
 
 ---
 
@@ -59,6 +60,14 @@ Search queries for domain research, organizations, public documentation, reports
 
 See:
 [OSINT.md](osint.md)
+
+---
+
+### Endpoint & URL Parameters
+Collection of common URL and redirect parameter names useful for identifying endpoints that handle URL navigation, redirects, return paths, and related functionality.
+
+see:
+[Endpoint_Parameters.md](endpoint_parameters.md)
 
 ---
 
