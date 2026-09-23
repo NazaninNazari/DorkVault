@@ -12,6 +12,7 @@ A curated collection of Google search queries for security research, OSINT, reco
 - [OSINT](osint.md)
 - [Endpoint & URL Parameters](endpoint_parameters.md)
 - [Path Based](path_based_dorks.md)
+- [Vulnerability Parameters](vulnerability_parameters.md)
 
 ---
 
@@ -77,6 +78,16 @@ if you find a domain and a path that looks something like “/assets/scripts/”
 
 see:
 [Path_Based.md](path_based_dorks.md)
+
+---
+
+### Vulnerability Parameters
+Parameters that are related to specific vulnerability categories in security tests.
+
+see:
+[Vulnerability_Parameters.md](vulnerability_parameters.md)
+
+---
 
 ## Usage
 Replace placeholders such as:

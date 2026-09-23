@@ -1,5 +1,5 @@
 # Path Based Dorks
-Now if you find a domain and a path that looks something like “/assets/scripts/” or “/private/documents/” you can use any of these combinations
+if you find a domain and a path that looks something like “/assets/scripts/” or “/private/documents/” you can use any of these combinations
 
 ---
 ## Path Based
